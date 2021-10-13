@@ -6,7 +6,7 @@
   <link href="https://sacredetach.github.io/atom.xml" rel="self"/>
   
   <link href="https://sacredetach.github.io/"/>
-  <updated>2021-10-13T03:06:23.386Z</updated>
+  <updated>2021-10-13T03:35:00.724Z</updated>
   <id>https://sacredetach.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>firsrweek</title>
+    <link href="https://sacredetach.github.io/2021/10/13/firsrweek/"/>
+    <id>https://sacredetach.github.io/2021/10/13/firsrweek/</id>
+    <published>2021-10-13T03:29:20.000Z</published>
+    <updated>2021-10-13T03:35:00.724Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;本周计划：&quot;&gt;&lt;a href=&quot;#本周计划：&quot; class=&quot;headerlink&quot; title=&quot;本周计划：&quot;&gt;&lt;/a&gt;本周计划：&lt;/h1&gt;&lt;h2 id=&quot;一-HTML、CSS、JS-掌握&quot;&gt;&lt;a href=&quot;#一-HTML、CSS、JS-掌握&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="week1" scheme="https://sacredetach.github.io/tags/week1/"/>
+    
+  </entry>
   
   <entry>
     <title>快速建博客</title>
