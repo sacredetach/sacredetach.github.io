@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://sacredetach.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://sacredetach.github.io/"/>
+  <updated>2021-10-11T06:13:30.460Z</updated>
+  <id>https://sacredetach.github.io/</id>
+  
+  <author>
+    <name>YYE</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的博客</title>
+    <link href="https://sacredetach.github.io/2021/10/11/wo-de-bo-ke/"/>
+    <id>https://sacredetach.github.io/2021/10/11/wo-de-bo-ke/</id>
+    <published>2021-10-11T06:13:30.000Z</published>
+    <updated>2021-10-11T06:13:30.460Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sacredetach.github.io/2021/10/11/hello-world/"/>
+    <id>https://sacredetach.github.io/2021/10/11/hello-world/</id>
+    <published>2021-10-11T06:08:36.856Z</published>
+    <updated>2021-10-11T06:08:36.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
